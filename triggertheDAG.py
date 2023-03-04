@@ -1,0 +1,1 @@
+Now that the scheduler #and web server are running, you can trigger the DAG by navigating to http://localhost:8080 #in your web browser and clicking on the "etl_pipeline" DAG. Click on the "Trigger DAG" button to start the pipeline.
